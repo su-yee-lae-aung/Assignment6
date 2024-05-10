@@ -1,0 +1,21 @@
+
+
+.text {
+    padding-left: 20px;
+}
+.grid{
+    display: grid;
+    grid-template-columns: auto auto;
+    width: 650px;height: 250px;
+    border:2px solid green;
+
+}
+p{
+    padding-left: 20px;
+}
+span{
+color: black;
+}
+span{
+padding-left: 20px;padding-top: 20px;
+}
